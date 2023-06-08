@@ -1,3 +1,13 @@
 .screen-size {
-    background-color: red;
+    width: 100%;
+    max-height: 100vh;
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mobile-screen {
+    height: 720px;
+    width: 480px;
 }
