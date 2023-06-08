@@ -10,4 +10,5 @@
 .mobile-screen {
     height: 720px;
     width: 480px;
+    background-color: red;
 }
